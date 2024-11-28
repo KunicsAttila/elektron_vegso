@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34729.46
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "elektron", "elektron\elektron.csproj", "{8427B26C-ED70-47C5-AC83-F91C7A0DB82D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8427B26C-ED70-47C5-AC83-F91C7A0DB82D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8427B26C-ED70-47C5-AC83-F91C7A0DB82D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8427B26C-ED70-47C5-AC83-F91C7A0DB82D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8427B26C-ED70-47C5-AC83-F91C7A0DB82D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38D0A617-DAE4-4DAA-A7BA-F70357A60BB7}
+	EndGlobalSection
+EndGlobal
